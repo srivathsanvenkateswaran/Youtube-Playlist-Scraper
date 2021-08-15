@@ -12,10 +12,13 @@ Clone the repository.
 ```
 git clone https://github.com/srivathsanvenkateswaran/Youtube-Playlist-Scraper
 ```
-
 Then navigate into the directory
 ```
 cd Youtube-Playlist-Scraper
+```
+Install the requirements with the help of requirements.txt
+```
+pip install -r requirements.txt
 ```
 Create a directory with the name of data.
 ```
